@@ -59,7 +59,8 @@ Register number: 24900731
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![Screenshot 2024-12-10 112050](https://github.com/user-attachments/assets/01a9ba3b-b510-4953-bfb5-5d81ecb9a11f)
+![Screenshot 2025-01-01 150246](https://github.com/user-attachments/assets/e448b570-19ef-4ba5-921a-a940afce76b1)
+
 
 
 **RESULTS**
