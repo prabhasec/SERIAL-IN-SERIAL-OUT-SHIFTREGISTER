@@ -50,8 +50,7 @@ q[3] <= q[2];
 end
 endmodule
 ```
-Developed by: safira barveen s
-Register number: 24900731
+
 
 
 **RTL LOGIC FOR SISO Shift Register**
